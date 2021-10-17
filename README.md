@@ -2,8 +2,9 @@
 
 This repo contains a selection of state machines that I have created so far. Each machine has some comments to descibe context, and a link to a the state graph visualisation powered by Stately.viz. Following is a list of machines shared so far.
 
-- screen/dialog logic machine used for towerofhanoi.app
-- game interaction state machine also from towerofhanoi.app
+From [towerofhanoi.app](https://towerofhanoi.app)
+- screen/dialog logic machine 
+- game interaction state machine (shortly)
 
 # XState
 
